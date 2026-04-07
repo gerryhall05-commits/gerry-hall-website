@@ -200,15 +200,15 @@ export default function App() {
             <div className="space-y-5 text-slate-200">
               <div>
                 <div className="text-sm uppercase tracking-[0.2em] text-slate-400">Name</div>
-                <div className="mt-2 text-lg">[Your Name]</div>
+                <div className="mt-2 text-lg">Gerry Hall</div>
               </div>
               <div>
                 <div className="text-sm uppercase tracking-[0.2em] text-slate-400">Email</div>
-                <div className="mt-2 text-lg">[your@email.com]</div>
+                <div className="mt-2 text-lg">gerryhall05@gmail.com</div>
               </div>
               <div>
                 <div className="text-sm uppercase tracking-[0.2em] text-slate-400">LinkedIn</div>
-                <div className="mt-2 text-lg">[LinkedIn Profile URL]</div>
+                <div className="mt-2 text-lg">linkedin.com/in/gerardhall</div>
               </div>
               <div>
                 <div className="text-sm uppercase tracking-[0.2em] text-slate-400">Focus</div>
