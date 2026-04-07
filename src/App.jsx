@@ -193,7 +193,7 @@ export default function App() {
             <p className="text-sm uppercase tracking-[0.2em] text-cyan-200">Contact</p>
             <h2 className="mt-4 text-3xl font-semibold sm:text-4xl">Open to a limited number of non-executive and advisory roles.</h2>
             <p className="mt-4 max-w-2xl leading-8 text-slate-300">
-              I remain open to a limited number of non-executive and advisory roles where experience, judgment and a people-first leadership style can add value. This website can be tailored further with your preferred tone, headshot, direct contact details, LinkedIn link and any additional board or consulting priorities.
+              I remain open to a limited number of non-executive and advisory roles where experience, judgment and a people-first leadership style can add value.
             </p>
           </div>
           <div className="rounded-3xl border border-white/10 bg-white/[0.03] p-6 shadow-xl shadow-black/20">
