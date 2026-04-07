@@ -11,9 +11,9 @@ Vercel deployment steps
 After deployment, Vercel will give you a live website address ending in .vercel.app
 
 Before deploying, edit src/App.jsx and replace:
-- [Your Name]
-- [your@email.com]
-- [LinkedIn Profile URL]
+- Gerry Hall
+- gerryhall05@gmail.com
+- linkedin.com/in/gerardhall
 
 Optional:
 - add your headshot
