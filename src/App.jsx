@@ -95,7 +95,7 @@ export default function App() {
               <div className="mt-4 grid grid-cols-2 gap-4">
                 <div className="rounded-2xl bg-slate-900/80 p-5">
                   <div className="text-3xl font-semibold">22</div>
-                  <div className="mt-1 text-sm text-slate-300">Warehouses scaled from a base of 5</div>
+                  <div className="mt-1 text-sm text-slate-300">Warehouses scaled from a base of 150k Sq Ft</div>
                 </div>
                 <div className="rounded-2xl bg-slate-900/80 p-5">
                   <div className="text-3xl font-semibold">35+</div>
