@@ -3,7 +3,7 @@ export default function App() {
     {
       title: 'Scaled Contract Logistics Footprint',
       detail:
-        'Expanded contract logistics solutions by 1 million Sq Ft across EMEIA over 8 years, sustaining growth through Brexit and COVID disruption.',
+        'Expanded contract logistics solutions from 150,000 sq ft to over 1 million sq ft across EMEIA over 8 years, sustaining growth through Brexit and COVID disruption.',
     },
     {
       title: 'Global Blue-Chip Leadership',
