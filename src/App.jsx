@@ -1,9 +1,9 @@
-export default function App() {
+export default function LogisticsNEDWebsite() {
   const achievements = [
     {
       title: 'Scaled Contract Logistics Footprint',
       detail:
-        'Expanded contract logistics solutions from 150,000 sq ft to over 1 million sq ft across EMEIA over 8 years, sustaining growth through Brexit and COVID disruption.',
+        'Expanded contract logistics operations from 150,000 sq ft to over 1 million sq ft over 8 years, sustaining growth through Brexit and COVID disruption.',
     },
     {
       title: 'Global Blue-Chip Leadership',
@@ -15,7 +15,7 @@ export default function App() {
       detail:
         'Recognised by Japanese and Chinese companies for multiple cost-reduction and efficiency initiatives in regulated logistics environments.',
     },
-  ]
+  ];
 
   const strengths = [
     'Non-Executive Director and advisory support',
@@ -24,26 +24,25 @@ export default function App() {
     'Cost and performance improvement',
     'Risk, compliance and regulated environments',
     'Board-level oversight grounded in execution and team development',
-    'Client Account & People Empowerment',
-  ]
+  ];
 
   const experience = [
     {
       company: 'Crane Worldwide Logistics',
       summary:
-        'Led the growth of contract logistics across EMEA, integrating warehouse expansion with broader logistics services and maintaining operational continuity through Brexit and COVID.',
+        'Led the growth of contract logistics from 5 to 22 warehouses, integrating warehouse expansion with broader logistics services and maintaining operational continuity through Brexit and COVID.',
     },
     {
       company: 'Seiko Epson (EMEA)',
       summary:
-        'Worked within a disciplined Japanese operating environment, driving process improvement, efficiency and operational control, managing high performing warehouse operations in Uk, Germany, Netherlands and a large Printer manafacuring site in Hungary   .',
+        'Worked within a disciplined Japanese operating environment, driving process improvement, efficiency and operational control.',
     },
     {
       company: 'Lenovo (EMEA)',
       summary:
-        'Supported fast-paced, high-volume, multi-country logistics operations across a complex international supply chain network plus setting up a new Service support operation from Slovakia.',
+        'Supported fast-paced, high-volume, multi-country logistics operations across a complex international supply chain network.',
     },
-  ]
+  ];
 
   return (
     <div className="min-h-screen bg-slate-950 text-white">
@@ -65,11 +64,12 @@ export default function App() {
                 Global logistics leadership built on personal relationships, empowered teams and execution.
               </h1>
               <p className="max-w-3xl text-lg leading-8 text-slate-300 sm:text-xl">
-                Over my 35 years of experience, the logistics world has dramatically evolved — from week-long delivery cycles to same-day expectations, driven by technology, automation, and now emerging innovations such as AI ( Artivcial Intelligence).
+                Over my 35 years of experience, the logistics world has dramatically evolved — from week-long delivery cycles to same-day expectations, driven by technology, automation, and now AI and emerging innovations such as drones.
                 <br /><br />
                 Yet despite this transformation, the most critical component of any successful logistics operation remains unchanged: our people.
                 <br /><br />
                 My approach has always been to invest in, develop, and empower teams — because when people are trusted, trained, and supported, performance follows.
+              </p>
               </p>
             </div>
 
@@ -94,8 +94,8 @@ export default function App() {
               <div className="text-sm uppercase tracking-[0.2em] text-cyan-200">Track Record</div>
               <div className="mt-4 grid grid-cols-2 gap-4">
                 <div className="rounded-2xl bg-slate-900/80 p-5">
-                  <div className="text-3xl font-semibold"/div>
-                  <div className="mt-1 text-sm text-slate-300">Warehouse footprint scaled from a base of 150,000 Sq Ft to 1 million sq ft</div>
+                  <div className="text-3xl font-semibold">1M+</div>
+                  <div className="mt-1 text-sm text-slate-300">Sq ft scaled from 150k sq ft</div>
                 </div>
                 <div className="rounded-2xl bg-slate-900/80 p-5">
                   <div className="text-3xl font-semibold">35+</div>
@@ -171,7 +171,7 @@ export default function App() {
           <div className="grid gap-6 lg:grid-cols-3">
             <div className="rounded-3xl border border-white/10 bg-white/[0.03] p-6">
               <div className="text-sm uppercase tracking-[0.2em] text-cyan-200">Network Growth</div>
-              <div className="mt-3 text-4xl font-semibold">100k sq ft → 1 million sq ft</div>
+              <div className="mt-3 text-4xl font-semibold">150k → 1M+ sq ft</div>
               <p className="mt-3 leading-7 text-slate-300">Scaled warehouse footprint over eight years while maintaining operational continuity and growth momentum.</p>
             </div>
             <div className="rounded-3xl border border-white/10 bg-white/[0.03] p-6">
@@ -194,7 +194,7 @@ export default function App() {
             <p className="text-sm uppercase tracking-[0.2em] text-cyan-200">Contact</p>
             <h2 className="mt-4 text-3xl font-semibold sm:text-4xl">Open to a limited number of non-executive and advisory roles.</h2>
             <p className="mt-4 max-w-2xl leading-8 text-slate-300">
-              I remain open to a limited number of non-executive and advisory roles where experience, judgment and a people-first leadership style can add value.
+              I remain open to a limited number of non-executive and advisory roles where experience, judgment and a people-first leadership style can add value. This website can be tailored further with your preferred tone, headshot, direct contact details, LinkedIn link and any additional board or consulting priorities.
             </p>
           </div>
           <div className="rounded-3xl border border-white/10 bg-white/[0.03] p-6 shadow-xl shadow-black/20">
@@ -220,5 +220,5 @@ export default function App() {
         </div>
       </section>
     </div>
-  )
+  );
 }
