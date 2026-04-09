@@ -3,7 +3,7 @@ export default function App() {
     {
       title: 'Scaled Contract Logistics Footprint',
       detail:
-        'Expanded contract logistics operations from 5 to 22 warehouses over 8 years, sustaining growth through Brexit and COVID disruption.',
+        'Expanded contract logistics solutions by 1 million Sq Ft across EMEIA over 8 years, sustaining growth through Brexit and COVID disruption.',
     },
     {
       title: 'Global Blue-Chip Leadership',
@@ -24,23 +24,24 @@ export default function App() {
     'Cost and performance improvement',
     'Risk, compliance and regulated environments',
     'Board-level oversight grounded in execution and team development',
+    'Client Account & People Empowerment',
   ]
 
   const experience = [
     {
       company: 'Crane Worldwide Logistics',
       summary:
-        'Led the growth of contract logistics from 5 to 22 warehouses, integrating warehouse expansion with broader logistics services and maintaining operational continuity through Brexit and COVID.',
+        'Led the growth of contract logistics across EMEA, integrating warehouse expansion with broader logistics services and maintaining operational continuity through Brexit and COVID.',
     },
     {
       company: 'Seiko Epson (EMEA)',
       summary:
-        'Worked within a disciplined Japanese operating environment, driving process improvement, efficiency and operational control.',
+        'Worked within a disciplined Japanese operating environment, driving process improvement, efficiency and operational control, managing high performing warehouse operations in Uk, Germany, Netherlands and a large Printer manafacuring site in Hungary   .',
     },
     {
       company: 'Lenovo (EMEA)',
       summary:
-        'Supported fast-paced, high-volume, multi-country logistics operations across a complex international supply chain network.',
+        'Supported fast-paced, high-volume, multi-country logistics operations across a complex international supply chain network plus setting up a new Service support operation from Slovakia.',
     },
   ]
 
@@ -64,7 +65,7 @@ export default function App() {
                 Global logistics leadership built on personal relationships, empowered teams and execution.
               </h1>
               <p className="max-w-3xl text-lg leading-8 text-slate-300 sm:text-xl">
-                Over my 35 years of experience, the logistics world has dramatically evolved — from week-long delivery cycles to same-day expectations, driven by technology, automation, and now AI and emerging innovations such as drones.
+                Over my 35 years of experience, the logistics world has dramatically evolved — from week-long delivery cycles to same-day expectations, driven by technology, automation, and now emerging innovations such as AI ( Artivcial Intelligence).
                 <br /><br />
                 Yet despite this transformation, the most critical component of any successful logistics operation remains unchanged: our people.
                 <br /><br />
