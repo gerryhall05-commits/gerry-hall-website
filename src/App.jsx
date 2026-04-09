@@ -171,7 +171,7 @@ export default function App() {
           <div className="grid gap-6 lg:grid-cols-3">
             <div className="rounded-3xl border border-white/10 bg-white/[0.03] p-6">
               <div className="text-sm uppercase tracking-[0.2em] text-cyan-200">Network Growth</div>
-              <div className="mt-3 text-4xl font-semibold">5 → 22</div>
+              <div className="mt-3 text-4xl font-semibold">100k sq ft → 1 million sq ft</div>
               <p className="mt-3 leading-7 text-slate-300">Scaled warehouse footprint over eight years while maintaining operational continuity and growth momentum.</p>
             </div>
             <div className="rounded-3xl border border-white/10 bg-white/[0.03] p-6">
