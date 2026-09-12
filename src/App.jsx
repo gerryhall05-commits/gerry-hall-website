@@ -1,9 +1,9 @@
 export default function LogisticsNEDWebsite() {
   const achievements = [
     {
-      title: 'Scaled Contract Logistics Footprint',
+      title: 'Scaled Contract Logistics Network',
       detail:
-        'Expanded contract logistics operations from 150,000 sq ft to over 1 million sq ft over 8 years, sustaining growth through Brexit and COVID disruption.',
+        'Supported c.25% annualised growth in the EMEIA contract logistics network, helping scale operations across multiple markets,while sustaining growth through Brexit and COVID disruption.',
     },
     {
       title: 'Global Blue-Chip Leadership',
@@ -19,7 +19,7 @@ export default function LogisticsNEDWebsite() {
 
   const strengths = [
     'Non-Executive Director and advisory support',
-    'Global logistics, warehousing, freight and contract logistics',
+    'Global logistics solutions, warehousing, freight and contract logistics',
     'Operational scale-up and network expansion',
     'Cost and performance improvement',
     'Risk, compliance and regulated environments',
@@ -30,17 +30,17 @@ export default function LogisticsNEDWebsite() {
     {
       company: 'Crane Worldwide Logistics',
       summary:
-        'Led the growth of contract logistics from 5 to 22 warehouses, integrating warehouse expansion with broader logistics services and maintaining operational continuity through Brexit and COVID.',
+        'Drove the growth of contract logistics across EMEIA, with support from US and sales teams, integrating warehouse expansion with broader logistics services and maintaining operational continuity through Brexit and COVID.',
     },
     {
       company: 'Seiko Epson (EMEA)',
       summary:
-        'Worked within a disciplined Japanese operating environment, driving process improvement, efficiency and operational control.',
+        'Worked within a disciplined Japanese operating environment, driving process improvement, efficiency and operational control, consolidating warehouse operations in Germany, France, Italy and the UK, with a "best in class" manufacturing/logistics site in Hungary.',
     },
     {
       company: 'Lenovo (EMEA)',
       summary:
-        'Supported fast-paced, high-volume, multi-country logistics operations across a complex international supply chain network.',
+        'Supported the development of a fast-paced, high-volume, multi-country service logistics operation across a complex international supply chain network.',
     },
   ];
 
@@ -70,7 +70,7 @@ export default function LogisticsNEDWebsite() {
                 <br /><br />
                 My approach has always been to invest in, develop, and empower teams — because when people are trusted, trained, and supported, performance follows.
               </p>
-              </p>
+            
             </div>
 
             <div className="flex flex-wrap gap-4">
@@ -94,8 +94,8 @@ export default function LogisticsNEDWebsite() {
               <div className="text-sm uppercase tracking-[0.2em] text-cyan-200">Track Record</div>
               <div className="mt-4 grid grid-cols-2 gap-4">
                 <div className="rounded-2xl bg-slate-900/80 p-5">
-                  <div className="text-3xl font-semibold">1M+</div>
-                  <div className="mt-1 text-sm text-slate-300">Sq ft scaled from 150k sq ft</div>
+                  <div className="text-3xl font-semibold">c.25%</div>
+                  <div className="mt-1 text-sm text-slate-300">Annualized EMEIA contract logistics growth</div>
                 </div>
                 <div className="rounded-2xl bg-slate-900/80 p-5">
                   <div className="text-3xl font-semibold">35+</div>
@@ -171,8 +171,8 @@ export default function LogisticsNEDWebsite() {
           <div className="grid gap-6 lg:grid-cols-3">
             <div className="rounded-3xl border border-white/10 bg-white/[0.03] p-6">
               <div className="text-sm uppercase tracking-[0.2em] text-cyan-200">Network Growth</div>
-              <div className="mt-3 text-4xl font-semibold">150k → 1M+ sq ft</div>
-              <p className="mt-3 leading-7 text-slate-300">Scaled warehouse footprint over eight years while maintaining operational continuity and growth momentum.</p>
+              <div className="mt-3 text-4xl font-semibold">c.25% annualised</div>
+              <p className="mt-3 leading-7 text-slate-300">Supported sustained EMEIA contract logistics growth across multiple markets while maintaining operational continuity and growth momentum.</p>
             </div>
             <div className="rounded-3xl border border-white/10 bg-white/[0.03] p-6">
               <div className="text-sm uppercase tracking-[0.2em] text-cyan-200">Operational Context</div>
@@ -194,7 +194,7 @@ export default function LogisticsNEDWebsite() {
             <p className="text-sm uppercase tracking-[0.2em] text-cyan-200">Contact</p>
             <h2 className="mt-4 text-3xl font-semibold sm:text-4xl">Open to a limited number of non-executive and advisory roles.</h2>
             <p className="mt-4 max-w-2xl leading-8 text-slate-300">
-              I remain open to a limited number of non-executive and advisory roles where experience, judgment and a people-first leadership style can add value. This website can be tailored further with your preferred tone, headshot, direct contact details, LinkedIn link and any additional board or consulting priorities.
+             I remain open to a limited number of non-executive, advisory and project-based roles where experience, judgment and a people-first leadership style can add value to logistics and supply chain organisations. 
             </p>
           </div>
           <div className="rounded-3xl border border-white/10 bg-white/[0.03] p-6 shadow-xl shadow-black/20">
